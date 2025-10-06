@@ -372,7 +372,11 @@ $(document).ready(function() {
                 // Check if the user language is not German and is not already on the English page
                 if (!userLang.toLowerCase().startsWith("de") && !currentPath.startsWith("/en-us")) {
                     // Redirect to the English page
-                    window.location.href = "/en-us";
+                    //window.location.href = "/en-us";
+                    
+                    // disabled redirect
+                    // window.location.href = "/en-us";
+
                 } else {
                     console.log("User has German language set or already on the English page.");
                 }
