@@ -1,6 +1,8 @@
 services:
   web:
-    build: .
+    image: httpd:2.4-alpine
     container_name: apache-static
     ports:
       - "8000:80"
+    volumes:
+      - ./:/usr/local/apache2/htdocs/:ro
