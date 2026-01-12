@@ -1,6 +1,6 @@
 window.addEventListener("load", function () {
   let blockedDomains = [];
-  fetch('https://hubspotonwebflow.com/assets/js/blockedDomains.json')
+  fetch('/js/blockedDomains.json')
   .then(response => response.json())
   .then(data => {
     blockedDomains = data;

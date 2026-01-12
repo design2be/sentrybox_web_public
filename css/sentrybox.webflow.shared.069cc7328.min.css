@@ -2349,7 +2349,7 @@ a {
 }
 
 .sectionteaser.wide.purple {
-    background-image: url(https://cdn.prod.website-files.com/655e51c4f097f75004c023e1/655e51c4f097f75004c02434_wavy-bg.svg), linear-gradient(#274c63, #274c63);
+    background-image: url(/img/655e51c4f097f75004c02434_wavy-bg.svg), linear-gradient(#274c63, #274c63);
     background-position: 50%, 0 0;
     background-size: cover, auto;
     padding-top: 15vh;
@@ -2580,7 +2580,7 @@ a {
 }
 
 .div-block-3 {
-    background-image: url(https://cdn.prod.website-files.com/655e51c4f097f75004c023e1/655e51c4f097f75004c02407_richard-01.jpg);
+    background-image: url(/img/655e51c4f097f75004c02407_richard-01.jpg);
     background-position: 50% 0;
     background-repeat: no-repeat;
     background-size: 100vw;
@@ -2588,12 +2588,12 @@ a {
 }
 
 .div-block-3._02 {
-    background-image: url(https://cdn.prod.website-files.com/655e51c4f097f75004c023e1/655e51c4f097f75004c023fb_richard-02.jpg);
+    background-image: url(/img/655e51c4f097f75004c023fb_richard-02.jpg);
     background-size: 100vw
 }
 
 .div-block-3._03 {
-    background-image: url(https://cdn.prod.website-files.com/655e51c4f097f75004c023e1/655e51c4f097f75004c023fa_richard-03.jpg);
+    background-image: url(/img/655e51c4f097f75004c023fa_richard-03.jpg);
     background-size: 100vw;
     height: 6000px
 }
@@ -2732,20 +2732,20 @@ a {
 }
 
 .thumb-food._01 {
-    background-image: url(https://cdn.prod.website-files.com/655e51c4f097f75004c023e1/655e51c4f097f75004c02409_bg-001.jpg);
+    background-image: url(/img/655e51c4f097f75004c02409_bg-001.jpg);
     background-position: 50%;
     background-size: cover;
     border-radius: 12px
 }
 
 .thumb-food._02 {
-    background-image: url(https://cdn.prod.website-files.com/655e51c4f097f75004c023e1/655e51c4f097f75004c02408_bg-001.jpg);
+    background-image: url(/img/655e51c4f097f75004c02408_bg-001.jpg);
     background-position: 50%;
     background-size: cover
 }
 
 .thumb-food._03 {
-    background-image: url(https://cdn.prod.website-files.com/655e51c4f097f75004c023e1/655e51c4f097f75004c02416_bg-003.jpg);
+    background-image: url(/img/655e51c4f097f75004c02416_bg-003.jpg);
     background-position: 0 0;
     background-size: cover
 }
@@ -4230,7 +4230,7 @@ a {
 }
 
 .sectionteaser-platform.wide.purple {
-    background-image: url(https://cdn.prod.website-files.com/655e51c4f097f75004c023e1/655e51c4f097f75004c02434_wavy-bg.svg), linear-gradient(#274c63, #274c63);
+    background-image: url(/img/655e51c4f097f75004c02434_wavy-bg.svg), linear-gradient(#274c63, #274c63);
     background-position: 50%, 0 0;
     background-size: cover, auto;
     padding-top: 15vh;
@@ -4335,7 +4335,7 @@ a {
 }
 
 .sectionmemorials.wide.purple {
-    background-image: url(https://cdn.prod.website-files.com/655e51c4f097f75004c023e1/655e51c4f097f75004c02434_wavy-bg.svg), linear-gradient(#274c63, #274c63);
+    background-image: url(/img/655e51c4f097f75004c02434_wavy-bg.svg), linear-gradient(#274c63, #274c63);
     background-position: 50%, 0 0;
     background-size: cover, auto;
     padding-top: 15vh;
@@ -4772,7 +4772,7 @@ a {
 }
 
 .sectionteaser-copy.wide.purple {
-    background-image: url(https://cdn.prod.website-files.com/655e51c4f097f75004c023e1/655e51c4f097f75004c02434_wavy-bg.svg), linear-gradient(#274c63, #274c63);
+    background-image: url(/img/655e51c4f097f75004c02434_wavy-bg.svg), linear-gradient(#274c63, #274c63);
     background-position: 50%, 0 0;
     background-size: cover, auto;
     padding-top: 15vh;
@@ -5992,7 +5992,7 @@ a {
     aspect-ratio: auto;
     text-align: center;
     background-color: #0000;
-    background-image: url(https://cdn.prod.website-files.com/655e51c4f097f75004c023e1/67d14e58b25a5d43d18a2b79_3d_teaser_desktop_no_alert.webp);
+    background-image: url(/img/67d14e58b25a5d43d18a2b79_3d_teaser_desktop_no_alert.webp);
     background-position: 50% 0;
     background-size: 100%;
     max-width: 2000px;
@@ -9836,7 +9836,7 @@ a {
     }
 
     .div-block-16-copy-2 {
-        background-image: url(https://cdn.prod.website-files.com/655e51c4f097f75004c023e1/66e69f462b3fc6358005c1cd_3d_teaser_desktop_alert.webp);
+        background-image: url(/img/66e69f462b3fc6358005c1cd_3d_teaser_desktop_alert.webp);
         background-position: 50% 0;
         background-repeat: no-repeat;
         background-size: 140%;
