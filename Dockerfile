@@ -1,9 +1,7 @@
-FROM python:3.12-slim
+FROM httpd:2.4-alpine
 
-WORKDIR /app
+# Copy your site (index.html in project root)
+COPY . /usr/local/apache2/htdocs/
 
-COPY . .
-
-EXPOSE 8000
-
-CMD ["python", "-m", "http.server", "8000"]
+# Ensure WebP MIME type is served correctly
+RUN printf "\nAddType image/webp .webp\n" >> /usr/local/apache2/conf/httpd.conf
